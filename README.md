@@ -1,7 +1,7 @@
 # kmzMaps
 A collection of KMZ format Google Earth maps. 
 
-##ILO Labour Force Surveys
+##WHO Global InfoBase
 <img class="aligncenter" alt="WHO Logo" src="https://raw.githubusercontent.com/peterburk/kmzMaps/master/Icons/who.png" width="128">
 
 ###Download
